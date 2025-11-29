@@ -1,0 +1,6 @@
+body { font-family: Arial; margin:0; padding:0; }
+header { text-align:center; padding:20px; }
+.logo { width:120px; }
+nav { background:#333; padding:10px; text-align:center; }
+nav a { color:#fff; margin:0 15px; text-decoration:none; }
+section { padding:20px; }
